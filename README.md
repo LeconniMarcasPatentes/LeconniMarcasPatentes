@@ -1,13 +1,13 @@
 # Bem-vindo ao perfil da Leconni Marcas & Patentes!
 
-## Sobre Nós
+## ❓ Sobre Nós!
 A **Leconni Marcas & Patentes** é uma empresa especializada na proteção e gestão de propriedades intelectuais. Atuamos no registro de marcas, patentes, direitos autorais e outros ativos intangíveis, oferecendo soluções completas e personalizadas para proteger o valor do seu negócio.
 
 Com uma equipe experiente e comprometida, buscamos oferecer excelência em serviços de consultoria, registro e acompanhamento de processos junto ao INPI e outros órgãos reguladores. Nosso objetivo é garantir que a sua marca esteja protegida e tenha a segurança jurídica necessária para crescer no mercado.
 
 ---
 
-## O Que Fazemos
+## 📌 O Que Fazemos?
 - **Registro de Marcas**: Acompanhamos todas as etapas do registro de marcas junto ao INPI, garantindo que o processo seja rápido e seguro.
 - **Depósito de Patentes**: Desenvolvemos e registramos invenções e modelos de utilidade, assegurando a exclusividade de sua inovação.
 - **Direitos Autorais**: Protegemos obras artísticas, literárias, científicas e outros direitos autorais.
@@ -16,7 +16,7 @@ Com uma equipe experiente e comprometida, buscamos oferecer excelência em servi
 
 ---
 
-## Automação e Inovação
+## ⚙ Automação e Inovação!
 Nosso perfil no GitHub reflete o compromisso da Leconni com a inovação e a tecnologia. Aqui você encontrará:
 - **Soluções de Automação**: Ferramentas que otimizam processos internos, como geração de contratos, envio de e-mails automatizados e gerenciamento de dados.
 - **Gerenciamento de Clientes**: Sistemas desenvolvidos para facilitar o cadastro, acompanhamento e atualização de informações de clientes e processos.
@@ -26,12 +26,12 @@ Nosso objetivo é modernizar os processos relacionados à gestão de marcas e pa
 
 ---
 
-## Nossa Equipe
+## 👨‍💻 Nossa Equipe
 Acreditamos no poder da colaboração! Nossa equipe de desenvolvedores, consultores e especialistas em propriedade intelectual está empenhada em criar soluções inovadoras e eficazes.
 
 ---
 
-## Entre em Contato
+## 📞 Entre em Contato!
 Quer saber mais sobre nossos serviços ou colaborar com nossos projetos?
 - **Site**: [leconni.com](https://leconni.com.br)
 - **E-mail**: leconni@leconni.com
